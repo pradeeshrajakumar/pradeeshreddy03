@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**pradeeshreddy03/pradeeshreddy03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+Hello! I'm a passionate and enthusiastic fresher in the field of data science, data analysis, and machine learning. With a strong foundation in various tools and technologies, I am eager to apply my skills and contribute to innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+
+- **Programming Languages:** Python
+- **Data Analysis & Visualization:** MySQL, Tableau, Power BI, Excel
+- **Data Science Libraries:** NumPy, Pandas, Matplotlib
+- **Machine Learning & Deep Learning:** Keras, TensorFlow
+
+## Experience
+
+I have hands-on experience working with diverse datasets and deriving insights using powerful tools. My expertise in data visualization helps in creating compelling stories from raw data, and my machine learning skills enable me to build predictive models that solve real-world problems.
